@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mishraanik
 - 👀 I’m interested in ... Python, C++, Sql.
-- 🌱 I’m currently learning ...Machine Learning, Backend usingDjango.
+- 🌱 I’m currently learning ...Machine Learning, Backend using Django.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
