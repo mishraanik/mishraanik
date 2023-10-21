@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Machine Learning, Backend Development using Django<br>👯 I’m looking to collaborate on NLP.<br>🤝 📮How to reach me mishraanik01@gmail.com <br>🌱 I’m currently learning Machine Learning.<br>💬 Ask me about Python, C++<br>⚡ Fun fact
+🔭 I’m currently working on Data Analytics, Machine Learning<br>👯 I’m looking to collaborate on NLP.<br>🤝 📮How to reach me mishraanik01@gmail.com <br>🌱 I’m currently learning Machine Learning.<br>💬 Ask me about Python, C++<br>⚡ Fun fact
 
 
 # 💻 Tech Stack:
